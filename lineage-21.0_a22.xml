@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github-org"
+            fetch="https://github.com/Samsung-MT6769-Devs/" />
+    
+    <project name="android_device_samsung_a22" path="device/samsung/a22" remote="github-org" revision="lineage_21" />
+    <project name="android_kernel_samsung_a22" path="kernel/samsung/a22" remote="github-org" revision="fourteen" />
+    <project name="android_vendor_samsung_a22" path="vendor/samsung/a22" remote="github-org" revision="lineage_21" />
+</manifest>

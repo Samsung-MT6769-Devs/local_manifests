@@ -5,5 +5,5 @@
     
     <project name="android_device_samsung_a22" path="device/samsung/a22" remote="github-org" revision="lineage_20" />
     <project name="android_kernel_samsung_a22_remake" path="kernel/samsung/a22" remote="github-org" revision="1-by-1" />
-    <project name="android_vendor_samsung_a22" path="vendor/samsung/a22" remote="github-org" revision="lineage_21" />
+    <project name="android_vendor_samsung_a22" path="vendor/samsung/a22" remote="github-org" revision="lineage_20" />
 </manifest>
